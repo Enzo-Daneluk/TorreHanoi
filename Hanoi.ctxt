@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hanoi
+comment1.params=n\ origem\ destino\ auxiliar
+comment1.target=void\ hanoi(int,\ char,\ char,\ char)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
